@@ -11,7 +11,7 @@
 
 
 
-<title>CV</title>
+<title>About me</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -24,15 +24,6 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
-
-<style type="text/css">
-  code{white-space: pre-wrap;}
-  span.smallcaps{font-variant: small-caps;}
-  span.underline{text-decoration: underline;}
-  div.column{display: inline-block; vertical-align: top; width: 50%;}
-  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-  ul.task-list{list-style: none;}
-    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -78,7 +69,6 @@ h6 {
   text-align: left;
 }
 </style>
-
 
 
 
@@ -279,57 +269,18 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Melodie Monod</a>
+      <a class="navbar-brand" href="index.html">Mélodie Monod</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fas fa-home"></span>
+    <span class="fa fa-home"></span>
      
     Home
   </a>
 </li>
-<li>
-  <a href="cv.html">
-    <span class="fas fa-file-pdf-o"></span>
-     
-    CV
-  </a>
-</li>
-<li>
-  <a href="publications.html">
-    <span class="fas fa-publications"></span>
-     
-    Publications
-  </a>
-</li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <li>
-  <a href="https://scholar.google.com/citations?user=UfYE8OMAAAAJ&amp;hl=en">
-    <span class="fas fa-google-scholar"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="mailto:monod.melodie@gmail.com">
-    <span class="fas fa-envelope-o"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="https://github.com/melodiemonod">
-    <span class="fas fa-github"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="https://www.linkedin.com/in/melodie-monod-419460116/">
-    <span class="fas fa-linkedin"></span>
-     
-  </a>
-</li>
+
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -339,12 +290,19 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">CV</h1>
+<h1 class="title toc-ignore">Publications</h1>
 
 </div>
 
 
-<p><a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a></p>
+<ul>
+<li>Flaxman, S., Mishra, S., Gandy, A. et al. Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe. Nature 584, 257–261 (2020). https://doi.org/10.1038/s41586-020-2405-7</li>
+
+<li>Unwin, H.J.T., Mishra, S., Bradley, V.C. et al. State-level tracking of COVID-19 in the United States. Nat Commun 11, 6189 (2020). https://doi.org/10.1038/s41467-020-19652-6</li>
+
+<li>Monod et al. Age groups that sustain resurging COVID-19 epidemics in the United States. medRxiv (2020). doi: 10.1101/2020.09.18.20197376.</li>
+
+</ul>
 
 
 
@@ -355,7 +313,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

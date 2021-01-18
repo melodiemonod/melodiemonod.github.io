@@ -25,6 +25,15 @@
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
   pre:not([class]) {
@@ -69,6 +78,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 
 
@@ -269,48 +279,54 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Melodie Monod</a>
+      <a class="navbar-brand" href="index.html">Mélodie Monod</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fa fa-home"></span>
+    <span class="fas fa-home"></span>
      
     Home
   </a>
 </li>
 <li>
   <a href="cv.html">
-    <span class="fa fa-file-pdf-o"></span>
+    <span class="fas fa-file-pdf-o"></span>
      
     CV
   </a>
 </li>
 <li>
-  <a href="https://melodiemonod.github.io/blog/">
-    <span class="fa fa-rss"></span>
+  <a href="publications.html">
+    <span class="fas fa-publications"></span>
      
-    Blog
+    Publications
   </a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
+  <a href="https://scholar.google.com/citations?user=UfYE8OMAAAAJ&amp;hl=en">
+    <span class="fas fa-google-scholar"></span>
+     
+  </a>
+</li>
+<li>
   <a href="mailto:monod.melodie@gmail.com">
-    <span class="fa fa-envelope-o"></span>
+    <span class="fas fa-envelope-o"></span>
      
   </a>
 </li>
 <li>
   <a href="https://github.com/melodiemonod">
-    <span class="fa fa-github"></span>
+    <span class="fas fa-github"></span>
      
   </a>
 </li>
 <li>
   <a href="https://www.linkedin.com/in/melodie-monod-419460116/">
-    <span class="fa fa-linkedin"></span>
+    <span class="fas fa-linkedin"></span>
      
   </a>
 </li>
@@ -328,7 +344,7 @@ $(document).ready(function () {
 </div>
 
 
-<p>I studied Economics and Statistics at the University of Geneva (2015-18) as an undergrad and went on to obtain an MSc in Statistics at Imperial College London (2019). My MSc dissertation focussed on developing statistical models and efficient algorithms to reconstruct epidemic transmission chains from deep sequence data. I am now doing a PhD within the CDT in Modern Statistics and Statistical Machine Learning between Imperial and Oxford. I remain interested in statistical modelling, computational methods and stochastic processes with applications in the bio-medical sciences. I also have a growing interest in Bayesian statistics.</p>
+<p>I studied Economics and Statistics at the University of Geneva (2015-18) as an undergrad and went on to obtain an MSc in Statistics at Imperial College London (2019). My MSc dissertation focused on developing statistical models and efficient algorithms to reconstruct epidemic transmission chains from deep sequence data. I am currently doing a PhD within the CDT in Modern Statistics and Statistical Machine Learning between Imperial and Oxford. I remain interested in statistical modeling, computational methods and stochastic processes with applications in the bio-medical sciences. I also have a growing interest in Bayesian statistics.</p>
 
 
 
@@ -339,7 +355,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
