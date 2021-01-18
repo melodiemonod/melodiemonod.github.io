@@ -17,10 +17,9 @@ title: "Welcome to my website!"
 </style>
 
 
-<p>I am a PhD student interested in Bayesian Statistics, Statistical Modeling and Computational Statistics.
-<br>
-<br>
-</p>
+I am a PhD student interested in Bayesian Statistics, Statistical Modeling and Computational Statistics.
+
+$$\\[0.5in]$$
 
 <div class="col2">
 
@@ -30,9 +29,9 @@ title: "Welcome to my website!"
 ![ ](me.png){#id .class height=200px}
 </center>
 
-<p>
-I studied Economics and Statistics at the [University of Geneva](https://www.unige.ch/gsem/en/programs/bachelor/description/) (2015-18) as an undergrad and went on to obtain an MSc in Statistics at [Imperial College London](https://www.imperial.ac.uk/statistics) (2019). My MSc dissertation focused on developing statistical models and efficient algorithms to reconstruct epidemic transmission chains from deep sequence data. I am currently part of the [CDT in Modern Statistics and Statistical Machine Learning](https://statml.io/) between Imperial and Oxford.<br>
+
+I studied Economics and Statistics at the [University of Geneva](https://www.unige.ch/gsem/en/programs/bachelor/description/) (2015-18) as an undergrad and went on to obtain an MSc in Statistics at [Imperial College London](https://www.imperial.ac.uk/statistics) (2019). My MSc dissertation focused on developing statistical models and efficient algorithms to reconstruct epidemic transmission chains from deep sequence data. I am currently part of the [CDT in Modern Statistics and Statistical Machine Learning](https://statml.io/) between Imperial and Oxford.
 
 My research focus on modeling infectious disease's transmission and the use of efficient computational methods for inference.
-</p>
+
 </div>

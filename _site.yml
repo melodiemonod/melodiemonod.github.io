@@ -14,11 +14,11 @@ navbar:
       icon: fa-list
       href: publications.html
   right:
-    - icon: fa-google
+    - icon: fa fa-google
       href: https://scholar.google.com/citations?user=UfYE8OMAAAAJ&hl=en    
-    - icon: fa-github
+    - icon: fa fa-github
       href: https://github.com/melodiemonod       # CHANGE HERE 
-    - icon: fa-linkedin
+    - icon: fa fa-linkedin
       href: https://www.linkedin.com/in/melodie-monod-419460116/  
     - icon: fa-envelope
       href: mailto:monod.melodie@gmail.com                    # CHANGE HERE 
