@@ -11,7 +11,7 @@
 
 
 
-<title>About me</title>
+<title>publications.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -24,6 +24,15 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -69,6 +78,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 
 
@@ -275,12 +285,51 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fa fa-home"></span>
+    <span class="fas fa-home"></span>
      
     Home
   </a>
 </li>
-
+<li>
+  <a href="cv.html">
+    <span class="fas fa-file-pdf"></span>
+     
+    CV
+  </a>
+</li>
+<li>
+  <a href="publications.html">
+    <span class="fas fa-list"></span>
+     
+    Publications and Talks
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://scholar.google.com/citations?user=UfYE8OMAAAAJ&amp;hl=en">
+    <span class="fa fa fa fa-google"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://github.com/melodiemonod">
+    <span class="fa fa fa fa-github"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/melodie-monod-419460116/">
+    <span class="fa fa fa fa-linkedin"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="mailto:monod.melodie@gmail.com">
+    <span class="fas fa-envelope"></span>
+     
+  </a>
+</li>
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -290,19 +339,36 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Publications</h1>
 
 </div>
 
 
+<p><span class="math display">\[\\[0.3cm]\]</span></p>
+<div id="publications" class="section level2">
+<h2>Publications</h2>
+<ol style="list-style-type: decimal">
+<li>Seth Flaxman, Swapnil Mishra, Axel Gandy, H Juliette T Unwin, Thomas A Mellan, Helen Coupland, Charles Whittaker, Harrison Zhu, Tresnia Berah, Jeffrey W Eaton, <strong>Mélodie Monod</strong>, Azra C Ghani, Christl A Donnelly, Steven M Riley, Michaela AC Vollmer, Neil M Ferguson, Lucy C Okell, Samir Bhatt (2020). Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe. <em>Nature</em> <strong>584</strong>, 257–261 (2020). <a href="https://doi.org/10.1038/s41586-020-2405-7" class="uri">https://doi.org/10.1038/s41586-020-2405-7</a></li>
+<li>H. Juliette T. Unwin, Swapnil Mishra, Valerie C. Bradley, Axel Gandy, Thomas A. Mellan, Helen Coupland, Jonathan Ish-Horowicz, Michaela A. C. Vollmer, Charles Whittaker, Sarah L. Filippi, Xiaoyue Xi, <strong>Mélodie Monod</strong>, Oliver Ratmann, Michael Hutchinson, Fabian Valka, Harrison Zhu, […], Neil M. Ferguson, Steven Riley, Christl A. Donnelly, Samir Bhatt &amp; Seth Flaxman et al. State-level tracking of COVID-19 in the United States. <em>Nat Commun</em> <strong>11</strong>, 6189 (2020). <a href="https://doi.org/10.1038/s41467-020-19652-6" class="uri">https://doi.org/10.1038/s41467-020-19652-6</a></li>
+<li><strong>Mélodie Monod</strong>, Alexandra Blenkinsop, Xiaoyue Xi, Daniel Hebert, Sivan Bershan, Valerie C Bradley, Yu Chen, Helen Coupland, Sarah Filippi, Jonathan Ish-Horowicz, Martin McManus, Thomas A Mellan, Axel Gandy, Michael Hutchinson, H Juliette T Unwin, Michaela A. C. Vollmer, Sebastian Weber, Harrison Zhu, Anne Bezancon, Simon Tietze, Neil M Ferguson, Swapnil Mishra, Seth Flaxman, Samir Bhatt, Oliver Ratmann. Age groups that sustain resurging COVID-19 epidemics in the United States. <em>medRxiv</em> (2020). doi: 10.1101/2020.09.18.20197376.</li>
+</ol>
+<p><span class="math display">\[\\[0.3cm]\]</span></p>
+</div>
+<div id="open-source-code" class="section level2">
+<h2>Open source code</h2>
 <ul>
-<li>Flaxman, S., Mishra, S., Gandy, A. et al. Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe. Nature 584, 257–261 (2020). https://doi.org/10.1038/s41586-020-2405-7</li>
-
-<li>Unwin, H.J.T., Mishra, S., Bradley, V.C. et al. State-level tracking of COVID-19 in the United States. Nat Commun 11, 6189 (2020). https://doi.org/10.1038/s41467-020-19652-6</li>
-
-<li>Monod et al. Age groups that sustain resurging COVID-19 epidemics in the United States. medRxiv (2020). doi: 10.1101/2020.09.18.20197376.</li>
-
+<li>Code for modelling estimated deaths and infections for COVID-19 used in [1], [2], [3] is available at <a href="https://github.com/ImperialCollegeLondon/covid19model" class="uri">https://github.com/ImperialCollegeLondon/covid19model</a></li>
+<li>Code for data scraping and processing age-stratified COVID-19 mortality used in [3] is available at <a href="https://github.com/ImperialCollegeLondon/US-covid19-agespecific-mortality-data" class="uri">https://github.com/ImperialCollegeLondon/US-covid19-agespecific-mortality-data</a></li>
 </ul>
+<p><span class="math display">\[\\[0.3cm]\]</span></p>
+</div>
+<div id="talks" class="section level2">
+<h2>Talks</h2>
+<ul>
+<li>StanCon 2020, August 13 2020.</li>
+<li>COVID-19 Dynamics &amp; Evolution Webinar Series, University of California San Diego, October 19 2020.</li>
+<li>Banff International Research Station for Mathematical Innovation and Discovery, November 10 2020.</li>
+</ul>
+</div>
 
 
 
@@ -313,7 +379,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

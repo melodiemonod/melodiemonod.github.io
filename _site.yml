@@ -10,7 +10,7 @@ navbar:
     - text: "CV"
       icon: fa-file-pdf
       href: cv.html
-    - text: "Publications"
+    - text: "Publications and Talks"
       icon: fa-list
       href: publications.html
   right:
