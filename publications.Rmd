@@ -5,9 +5,13 @@ title: ""
 $$\\[0.3cm]$$
 
 ## Publications
-1. Seth Flaxman, Swapnil Mishra, Axel Gandy, H Juliette T Unwin, Thomas A Mellan, Helen Coupland, Charles Whittaker, Harrison Zhu, Tresnia Berah, Jeffrey W Eaton, **Mélodie Monod**, Azra C Ghani, Christl A Donnelly, Steven M Riley, Michaela AC Vollmer, Neil M Ferguson, Lucy C Okell, Samir Bhatt (2020). Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe. *Nature* **584**, 257–261 (2020). https://doi.org/10.1038/s41586-020-2405-7
-2. H. Juliette T. Unwin, Swapnil Mishra, Valerie C. Bradley, Axel Gandy, Thomas A. Mellan, Helen Coupland, Jonathan Ish-Horowicz, Michaela A. C. Vollmer, Charles Whittaker, Sarah L. Filippi, Xiaoyue Xi, **Mélodie Monod**, Oliver Ratmann, Michael Hutchinson, Fabian Valka, Harrison Zhu, [...], Neil M. Ferguson, Steven Riley, Christl A. Donnelly, Samir Bhatt & Seth Flaxman et al. State-level tracking of COVID-19 in the United States. *Nat Commun* **11**, 6189 (2020). https://doi.org/10.1038/s41467-020-19652-6
-3. **Mélodie Monod**, Alexandra Blenkinsop, Xiaoyue Xi, Daniel Hebert, Sivan Bershan, Valerie C Bradley, Yu Chen, Helen Coupland, Sarah Filippi, Jonathan Ish-Horowicz, Martin McManus, Thomas A Mellan,  Axel Gandy, Michael Hutchinson, H Juliette T Unwin, Michaela A. C. Vollmer, Sebastian Weber, Harrison Zhu, Anne Bezancon, Simon Tietze, Neil M Ferguson, Swapnil Mishra, Seth Flaxman, Samir Bhatt,  Oliver Ratmann. Age groups that sustain resurging COVID-19 epidemics in the United States. *medRxiv* (2020). doi: 10.1101/2020.09.18.20197376.
+1. **Mélodie Monod**, Alexandra Blenkinsop, Xiaoyue Xi, Daniel Hebert, Sivan Bershan, Valerie C Bradley, Yu Chen, Helen Coupland, Sarah Filippi, Jonathan Ish-Horowicz, Martin McManus, Thomas A Mellan,  Axel Gandy, Michael Hutchinson, H Juliette T Unwin, Michaela A. C. Vollmer, Sebastian Weber, Harrison Zhu, Anne Bezancon, Simon Tietze, Neil M Ferguson, Swapnil Mishra, Seth Flaxman, Samir Bhatt and Oliver Ratmann. Age groups that sustain resurging COVID-19 epidemics in the United States. *Science* (2020). doi: 10.1126/science.abe8372
+
+2. Seth Flaxman, Swapnil Mishra, Axel Gandy, H Juliette T Unwin, Thomas A Mellan, Helen Coupland, Charles Whittaker, Harrison Zhu, Tresnia Berah, Jeffrey W Eaton, **Mélodie Monod**, Azra C Ghani, Christl A Donnelly, Steven M Riley, Michaela AC Vollmer, Neil M Ferguson, Lucy C Okell and Samir Bhatt. Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe. *Nature* **584**, 257–261 (2020). https://doi.org/10.1038/s41586-020-2405-7
+
+3. H. Juliette T. Unwin, Swapnil Mishra, Valerie C. Bradley, Axel Gandy, Thomas A. Mellan, Helen Coupland, Jonathan Ish-Horowicz, Michaela A. C. Vollmer, Charles Whittaker, Sarah L. Filippi, Xiaoyue Xi, **Mélodie Monod**, Oliver Ratmann, Michael Hutchinson, Fabian Valka, Harrison Zhu, [...], Neil M. Ferguson, Steven Riley, Christl A. Donnelly, Samir Bhatt and Seth Flaxman et al. State-level tracking of COVID-19 in the United States. *Nat Commun* **11**, 6189 (2020). https://doi.org/10.1038/s41467-020-19652-6
+
+
 
 $$\\[0.3cm]$$
 
