@@ -1,9 +1,0 @@
----
-title: "About me"
----
-
-I am a PhD student in Statistics, interested in Bayesian Statistics, Statistical Modeling and Computational Statistics.
-
-I studied Economics and Statistics at the University of Geneva (2015-18) as an undergrad and went on to obtain an MSc in Statistics at Imperial College London (2019). My MSc dissertation focused on developing statistical models and efficient algorithms to reconstruct epidemic transmission chains from deep sequence data. I am currently part of the CDT in Modern Statistics and Statistical Machine Learning between Imperial and Oxford. I remain interested in statistical modeling, computational methods and stochastic processes with applications in the bio-medical sciences. I also have a growing interest in Bayesian statistics.
-
-My research focus on modeling infectious disease's transmission and the use of efficient computational methods for inference.
