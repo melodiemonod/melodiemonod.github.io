@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Splines on Mélodie Monod</title>
+    <link>/tags/splines/</link>
+    <description>Recent content in Splines on Mélodie Monod</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021 Mélodie Monod
+</copyright>
+    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/splines/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Regularised B-splines projected Gaussian Process priors to estimate the age profile of COVID-19 deaths before and after vaccine roll-out</title>
+      <link>/docs/pub_03/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/pub_03/</guid>
+      <description>Authors: Mélodie Monod, Alexandra Blenkinsop, Andrea Brizzi, Yu Chen, Vidoushee Jogarah, Yuanrong Wang, Seth Flaxman, Samir Bhatt, Oliver Ratmann
+Abstract: The COVID-19 pandemic has caused severe public health consequences in the United States. The United States began a vaccination campaign at the end of 2020 targeting primarily elderly residents before extending access to younger individuals. With both COVID-19 infection fatality ratios and vaccine uptake being heterogeneous across ages, an important consideration is whether the age contribution to deaths shifted over time towards younger age groups.</description>
+    </item>
+    
+  </channel>
+</rss>
