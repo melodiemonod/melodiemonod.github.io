@@ -6,47 +6,7 @@
     <description>Recent content on Mélodie Monod</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2021 Mélodie Monod
-</copyright>
-    <lastBuildDate>Mon, 29 Nov 2021 09:00:00 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Regularised B-splines projected Gaussian Process priors to estimate the age profile of COVID-19 deaths before and after vaccine roll-out</title>
-      <link>/docs/pub_03/</link>
-      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/pub_03/</guid>
-      <description>Authors: Mélodie Monod, Alexandra Blenkinsop, Andrea Brizzi, Yu Chen, Vidoushee Jogarah, Yuanrong Wang, Seth Flaxman, Samir Bhatt, Oliver Ratmann
-Abstract: The COVID-19 pandemic has caused severe public health consequences in the United States. The United States began a vaccination campaign at the end of 2020 targeting primarily elderly residents before extending access to younger individuals. With both COVID-19 infection fatality ratios and vaccine uptake being heterogeneous across ages, an important consideration is whether the age contribution to deaths shifted over time towards younger age groups.</description>
-    </item>
-    
-    <item>
-      <title>Age groups that sustain resurging COVID-19 epidemics in the United States</title>
-      <link>/docs/pub_02/</link>
-      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/pub_02/</guid>
-      <description>Authors: Mélodie Monod, Alexandra Blenkinsop, Xiaoyue Xi, Daniel Hebert, Sivan Bershan, Simon Tietze, Marc Baguelin, Valerie C. Bradley, Yu Chen, Helen Coupland, Sarah Filippi, Jonathan Ish-Horowicz, Martin McManus, Thomas Mellan, Axel Gandy, Michael Hutchinson, H. Juliette T. Unwin, Sabine L. van Elsland, Michaela A. C. Vollmer, Sebastian Weber, Harrison Zhu, Anne Bezancon, Neil M. Ferguson, Swapnil Mishra, Seth Flaxman, Samir Bhatt, Oliver Ratmann, on behalf of the Imperial College COVID-19 Response Team.
-Abstract: After initial declines, in mid-2020 a resurgence in transmission of novel coronavirus disease (COVID-19) occurred in the United States and Europe.</description>
-    </item>
-    
-    <item>
-      <title>Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe</title>
-      <link>/docs/pub_01/</link>
-      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/docs/pub_01/</guid>
-      <description>Authors: Seth Flaxman, Swapnil Mishra, Axel Gandy, H. Juliette T. Unwin, Thomas A. Mellan, Helen Coupland, Charles Whittaker, Harrison Zhu, Tresnia Berah, Jeffrey W. Eaton, Mélodie Monod, Imperial College COVID-19 Response Team, Azra C. Ghani, Christl A. Donnelly, Steven Riley, Michaela A. C. Vollmer, Neil M. Ferguson, Lucy C. Okell &amp;amp; Samir Bhatt.
-Abstract: Following the detection of the new coronavirus1 severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and its spread outside of China, Europe has experienced large epidemics of coronavirus disease 2019 (COVID-19).</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/post-01/</link>
-      <pubDate>Mon, 29 Nov 2021 09:00:00 +0200</pubDate>
-      
-      <guid>/posts/post-01/</guid>
-      <description>Introduction </description>
-    </item>
-    
+    <copyright>&amp;copy; 2023 Mélodie Monod
+</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
