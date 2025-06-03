@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open-source code on Mélodie Monod</title>
+    <title>Mélodie Monod</title>
     <link>/code/</link>
-    <description>Recent content in Open-source code on Mélodie Monod</description>
+    <description>Recent content on Mélodie Monod</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2023 Mélodie Monod
